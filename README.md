@@ -103,4 +103,4 @@ GitHub: https://github.com/nielalfredr-ctrl/CpE_Portfolio_Rodriguez_N._BSCpE3A
 
 ---
 
-Thank you for visiting my portfolio. This repository represents my academic projects, technical skills, and continuous learning journey in Information Technology.
+Thank you for visiting my portfolio.
