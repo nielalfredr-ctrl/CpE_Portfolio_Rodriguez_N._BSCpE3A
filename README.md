@@ -1,5 +1,5 @@
 # CpE_Portfolio_Rodriguez_N._BSCpE3A
-# Niel Alfred P. Rodriguez - IT Portfolio
+# Niel Alfred P. Rodriguez - 
 
 ## About Me
 
