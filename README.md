@@ -3,7 +3,7 @@
 
 ## About Me
 
-Hello! I am **Niel Alfred P. Rodriguez**, a Bachelor of Science in Information Technology (BSIT) student. I am interested in mobile application development, software engineering, database management, and embedded systems. This portfolio showcases my academic and personal projects, demonstrating my technical skills and experience in developing practical technology solutions.
+Hello! I am **Niel Alfred P. Rodriguez**, a Bachelor of Science in Computer Engineering (BSCpE) student. I am interested in mobile application development, software engineering, database management, and embedded systems. This portfolio showcases my academic and personal projects, demonstrating my technical skills and experience in developing practical technology solutions.
 
 
 ## Skills & Technologies
