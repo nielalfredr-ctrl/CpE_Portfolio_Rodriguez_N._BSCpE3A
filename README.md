@@ -99,7 +99,7 @@ Portfolio Repository
 
 Email: [nielalfredr@gmail.com]
 
-GitHub: https://github.com/nielalfredr-ctrl/CpE_Portfolio_NielAlfred_Portfolio
+GitHub: https://github.com/nielalfredr-ctrl/CpE_Portfolio_Rodriguez_N._BSCpE3A
 
 ---
 
